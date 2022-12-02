@@ -1,7 +1,7 @@
 layout: post
 title: "Neuron instruction"
 date: 2023-12-02 03:03:03 -0000
-categories: CATEGORY-1 CATEGORY-2
+categories: 
 
 ### First steps:
 
