@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Models
+title: Datasets
 parent: Computer Vision
 nav_order: 2
 ---
