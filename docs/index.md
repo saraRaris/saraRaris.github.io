@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Hardware
-nav_order: 3
+title: Home
+permalink: /home/
+nav_order: 1
 has_children: true
 ---
 
@@ -17,5 +18,4 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
-~                                                                                                                                                                      
-~                                                          
+~                                                           
