@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Cameras
-parent: Harware
+parent: Hardware
 nav_order: 2
 ---
 
